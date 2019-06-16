@@ -1,0 +1,14 @@
+[
+    {
+        "tool": {
+            "toolName": "TVSet",
+            "length": "one week",
+        }
+    },
+    {
+        "tool": {
+            "toolName": "Vacuum",
+            "length": "two months",
+        }
+    }
+]
